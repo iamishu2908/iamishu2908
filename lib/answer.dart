@@ -11,7 +11,7 @@ class Answer extends StatelessWidget {
       child: ElevatedButton(
         onPressed: selectHandler,
         style: ElevatedButton.styleFrom(
-          primary: Colors.pinkAccent, //change background color of button
+          primary: Colors.black, //change background color of button
           onPrimary: Colors.yellow, //change text color of button
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(26),

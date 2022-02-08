@@ -76,7 +76,7 @@ class _MyAppState extends State<MyApp> {
                 questions: _questions,
               )
             : Result(_totalScore, _resetQuiz),
-        backgroundColor: Colors.lightBlueAccent,
+        backgroundColor: Colors.deepOrange,
       ),
     );
   }
