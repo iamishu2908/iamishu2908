@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/ishwarya-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwarya-devanathan/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishudev2021@gmail.com)](mailto:ishudev2021@gmail.com)
 
-
+![Ishwarya's github stats](https://github-readme-stats.vercel.app/api?username=iamishu2908&show_icons=true&theme=omni)
 ## I am
 - A creative person
 - who loves
@@ -26,8 +26,7 @@
 - Contribute in Innovating something exciting !
 - Listen to 'Weeknd' :)
 
-![Ishwarya's github stats](https://github-readme-stats.vercel.app/api?username=iamishu2908&show_icons=true&theme=omni)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamishu2908&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iamishu2908.iamishu2908)
 
