@@ -7,7 +7,7 @@ Connect with me on : [![LinkedIn](https://img.shields.io/badge/ishwarya-%230077B
 
 ![Ishwarya's github stats](https://github-readme-stats.vercel.app/api?username=iamishu2908&show_icons=true&theme=omni)
 ## I am
-- A creative person
+- A curious person
 - who loves
 - to ponder about 
 - creative ideas and approaches
