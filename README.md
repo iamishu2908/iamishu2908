@@ -5,7 +5,6 @@
 
 Connect with me on : [![LinkedIn](https://img.shields.io/badge/ishwarya-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwarya-devanathan/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishudev2021@gmail.com)](mailto:ishudev2021@gmail.com)
 
-![Ishwarya's github stats](https://github-readme-stats.vercel.app/api?username=iamishu2908&show_icons=true&theme=omni)
 ## I am
 - A curious person
 - who loves
